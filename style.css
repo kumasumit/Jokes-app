@@ -8,6 +8,7 @@
   flex-direction: column;
   margin: 100px;
   border: 15px solid #3868ec;
+  border-radius: 10px;
   justify-content: space-around;
   align-items: center;
   height: 40vh;
